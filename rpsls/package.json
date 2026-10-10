@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "figlet": "^1.2.0"
+    "figlet": "^1.11.3"
   },
   "devDependencies": {},
   "scripts": {
